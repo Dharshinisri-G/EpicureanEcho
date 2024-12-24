@@ -20,8 +20,8 @@ const Home = () => (
 
     {/* Main Content */}
     <div className="flex flex-col items-center justify-center h-full text-center text-white p-8  bg-opacity-50">
-      <h1 className="text-5xl font-bold mb-6 mt-24 text-blue-700">Welcome to Recipe Finder</h1>
-      <p className="text-xl mb-10 max-w-xl text-white">
+      <h1 className="text-7xl font-bold mb-6 mt-24 text-blue-700">Welcome to Recipe Finder</h1>
+      <p className="text-3xl mb-10 max-w-xl text-white">
         Discover delicious recipes from around the world. Find something new to cook, explore different cuisines, and make every meal an adventure!
       </p>
       <Link to="/search" className="px-8 py-3 bg-blue-600 text-white rounded-md hover:bg-blue-700 font-semibold">
